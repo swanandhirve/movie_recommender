@@ -1,0 +1,4 @@
+# created by virtualenv automatically
+*.pkl.pkl
+similarity.pkl
+/pkl/similarity.pkl
